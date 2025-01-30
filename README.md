@@ -66,7 +66,8 @@ This project implements a **TinyML-powered health monitoring system** designed f
 
 ## Contributors
 - **Pratosh Karthikeyan**
-- **[Other team members, if applicable]**
+- **Nirmalkumar T K**
+- **Pranav Manikandan**
 
 ---
 
